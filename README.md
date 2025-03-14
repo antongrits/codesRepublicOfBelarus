@@ -28,3 +28,16 @@
 1. Склонируйте репозиторий на свой компьютер.
 2. Откройте проект в Xcode.
 3. Соберите и запустите проект на своем устройстве или эмуляторе.
+
+<img width="166" alt="image" src="https://github.com/user-attachments/assets/4387d0fb-b72d-48ee-b396-45262577c031" />
+<img width="166" alt="image" src="https://github.com/user-attachments/assets/998d0395-9247-4ad1-935d-3cc393cd4932" />
+<img width="166" alt="image" src="https://github.com/user-attachments/assets/21371af9-43c9-47e7-997c-a262302a396f" />
+<img width="166" alt="image" src="https://github.com/user-attachments/assets/05490836-f088-499d-bc99-15bdd6a384b0" />
+
+
+
+
+
+
+
+
